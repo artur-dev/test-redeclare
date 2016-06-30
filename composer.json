@@ -1,0 +1,18 @@
+{
+    "name": "test/kahlan",
+    "description": "",
+    "require": {
+        "jms/serializer": "^1.1"
+    },
+    "require-dev": {
+        "crysalead/kahlan": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Artur\\Test\\": "src/"
+        }
+    },
+    "config": {
+        "bin-dir": "bin/"
+    }
+}
