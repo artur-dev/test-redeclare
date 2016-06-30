@@ -1,4 +1,4 @@
-# test-redeclare
+# test-redeclare (FIXED)
 showcase for kahlan 'redeclare class' problem
 
 ```
